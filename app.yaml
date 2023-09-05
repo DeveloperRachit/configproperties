@@ -1,1 +1,2 @@
-app.name=updated value
+app:
+  name: "value from the git server"
